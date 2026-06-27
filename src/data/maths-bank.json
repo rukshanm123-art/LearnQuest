@@ -1,0 +1,6562 @@
+[
+ {
+  "id": "mb-y1-001",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 8 + 6?",
+  "answer": "14",
+  "explanation": "The answer is 14."
+ },
+ {
+  "id": "mb-y1-002",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 5 + 1?",
+  "options": [
+   "7",
+   "8",
+   "6",
+   "5"
+  ],
+  "answer": 2,
+  "explanation": "The answer is 6."
+ },
+ {
+  "id": "mb-y1-003",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 9 + 8?",
+  "answer": "17",
+  "explanation": "The answer is 17."
+ },
+ {
+  "id": "mb-y1-004",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 1 + 7?",
+  "options": [
+   "8",
+   "9",
+   "7",
+   "10"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 8."
+ },
+ {
+  "id": "mb-y1-005",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 8 + 5?",
+  "answer": "13",
+  "explanation": "The answer is 13."
+ },
+ {
+  "id": "mb-y1-006",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 8 + 9?",
+  "options": [
+   "19",
+   "16",
+   "17",
+   "18"
+  ],
+  "answer": 2,
+  "explanation": "The answer is 17."
+ },
+ {
+  "id": "mb-y1-007",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 2 + 8?",
+  "answer": "10",
+  "explanation": "The answer is 10."
+ },
+ {
+  "id": "mb-y1-008",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 1 + 9?",
+  "options": [
+   "10",
+   "11",
+   "9",
+   "12"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 10."
+ },
+ {
+  "id": "mb-y1-009",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 9 + 4?",
+  "answer": "13",
+  "explanation": "The answer is 13."
+ },
+ {
+  "id": "mb-y1-010",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 6 + 1?",
+  "options": [
+   "9",
+   "6",
+   "7",
+   "8"
+  ],
+  "answer": 2,
+  "explanation": "The answer is 7."
+ },
+ {
+  "id": "mb-y1-011",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 1 + 4?",
+  "answer": "5",
+  "explanation": "The answer is 5."
+ },
+ {
+  "id": "mb-y1-012",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 5 + 5?",
+  "options": [
+   "11",
+   "10",
+   "9",
+   "12"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 10."
+ },
+ {
+  "id": "mb-y1-013",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 9 + 7?",
+  "answer": "16",
+  "explanation": "The answer is 16."
+ },
+ {
+  "id": "mb-y1-014",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 2 + 6?",
+  "options": [
+   "7",
+   "9",
+   "10",
+   "8"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 8."
+ },
+ {
+  "id": "mb-y1-015",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 8 + 7?",
+  "answer": "15",
+  "explanation": "The answer is 15."
+ },
+ {
+  "id": "mb-y1-016",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 6 + 3?",
+  "options": [
+   "9",
+   "10",
+   "11",
+   "8"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 9."
+ },
+ {
+  "id": "mb-y1-017",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 9 + 7?",
+  "answer": "16",
+  "explanation": "The answer is 16."
+ },
+ {
+  "id": "mb-y1-018",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 9 + 9?",
+  "options": [
+   "17",
+   "19",
+   "20",
+   "18"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 18."
+ },
+ {
+  "id": "mb-y1-019",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 5 + 1?",
+  "answer": "6",
+  "explanation": "The answer is 6."
+ },
+ {
+  "id": "mb-y1-020",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 3 + 1?",
+  "options": [
+   "6",
+   "3",
+   "5",
+   "4"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 4."
+ },
+ {
+  "id": "mb-y1-021",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 7 + 8?",
+  "answer": "15",
+  "explanation": "The answer is 15."
+ },
+ {
+  "id": "mb-y1-022",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 6 + 9?",
+  "options": [
+   "15",
+   "14",
+   "17",
+   "16"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 15."
+ },
+ {
+  "id": "mb-y1-023",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 4 + 5?",
+  "answer": "9",
+  "explanation": "The answer is 9."
+ },
+ {
+  "id": "mb-y1-024",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 5 + 8?",
+  "options": [
+   "13",
+   "14",
+   "12",
+   "15"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 13."
+ },
+ {
+  "id": "mb-y1-025",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 7 + 5?",
+  "answer": "12",
+  "explanation": "The answer is 12."
+ },
+ {
+  "id": "mb-y1-026",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 4 + 9?",
+  "options": [
+   "15",
+   "13",
+   "12",
+   "14"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 13."
+ },
+ {
+  "id": "mb-y1-027",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 2 + 4?",
+  "answer": "6",
+  "explanation": "The answer is 6."
+ },
+ {
+  "id": "mb-y1-028",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 6 + 6?",
+  "options": [
+   "11",
+   "14",
+   "13",
+   "12"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 12."
+ },
+ {
+  "id": "mb-y1-029",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 3 + 9?",
+  "answer": "12",
+  "explanation": "The answer is 12."
+ },
+ {
+  "id": "mb-y1-030",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 2 + 3?",
+  "options": [
+   "5",
+   "7",
+   "6",
+   "4"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 5."
+ },
+ {
+  "id": "mb-y1-031",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 9 + 7?",
+  "answer": "16",
+  "explanation": "The answer is 16."
+ },
+ {
+  "id": "mb-y1-032",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 9 + 7?",
+  "options": [
+   "16",
+   "17",
+   "15",
+   "18"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 16."
+ },
+ {
+  "id": "mb-y1-033",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 5 + 2?",
+  "answer": "7",
+  "explanation": "The answer is 7."
+ },
+ {
+  "id": "mb-y1-034",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 6 + 2?",
+  "options": [
+   "10",
+   "9",
+   "8",
+   "7"
+  ],
+  "answer": 2,
+  "explanation": "The answer is 8."
+ },
+ {
+  "id": "mb-y1-035",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 8 + 8?",
+  "answer": "16",
+  "explanation": "The answer is 16."
+ },
+ {
+  "id": "mb-y1-036",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 6 + 4?",
+  "options": [
+   "10",
+   "11",
+   "9",
+   "12"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 10."
+ },
+ {
+  "id": "mb-y1-037",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 4 + 4?",
+  "answer": "8",
+  "explanation": "The answer is 8."
+ },
+ {
+  "id": "mb-y1-038",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 1 + 3?",
+  "options": [
+   "4",
+   "5",
+   "3",
+   "6"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 4."
+ },
+ {
+  "id": "mb-y1-039",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 4 + 5?",
+  "answer": "9",
+  "explanation": "The answer is 9."
+ },
+ {
+  "id": "mb-y1-040",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 1,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y1-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 1 + 7?",
+  "options": [
+   "10",
+   "7",
+   "8",
+   "9"
+  ],
+  "answer": 2,
+  "explanation": "The answer is 8."
+ },
+ {
+  "id": "mb-y2-001",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 53 − 13?",
+  "answer": "40",
+  "explanation": "The answer is 40."
+ },
+ {
+  "id": "mb-y2-002",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 33 − 10?",
+  "options": [
+   "23",
+   "24",
+   "22",
+   "25"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 23."
+ },
+ {
+  "id": "mb-y2-003",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 36 + 9?",
+  "answer": "45",
+  "explanation": "The answer is 45."
+ },
+ {
+  "id": "mb-y2-004",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 39 − 16?",
+  "options": [
+   "23",
+   "24",
+   "25",
+   "22"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 23."
+ },
+ {
+  "id": "mb-y2-005",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 39 − 6?",
+  "answer": "33",
+  "explanation": "The answer is 33."
+ },
+ {
+  "id": "mb-y2-006",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 37 + 20?",
+  "options": [
+   "56",
+   "58",
+   "59",
+   "57"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 57."
+ },
+ {
+  "id": "mb-y2-007",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 29 − 9?",
+  "answer": "20",
+  "explanation": "The answer is 20."
+ },
+ {
+  "id": "mb-y2-008",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 47 − 16?",
+  "options": [
+   "33",
+   "30",
+   "32",
+   "31"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 31."
+ },
+ {
+  "id": "mb-y2-009",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 10 + 20?",
+  "answer": "30",
+  "explanation": "The answer is 30."
+ },
+ {
+  "id": "mb-y2-010",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 34 − 16?",
+  "options": [
+   "17",
+   "20",
+   "19",
+   "18"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 18."
+ },
+ {
+  "id": "mb-y2-011",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 59 − 12?",
+  "answer": "47",
+  "explanation": "The answer is 47."
+ },
+ {
+  "id": "mb-y2-012",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 23 + 20?",
+  "options": [
+   "43",
+   "44",
+   "42",
+   "45"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 43."
+ },
+ {
+  "id": "mb-y2-013",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 39 − 9?",
+  "answer": "30",
+  "explanation": "The answer is 30."
+ },
+ {
+  "id": "mb-y2-014",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 55 − 14?",
+  "options": [
+   "41",
+   "43",
+   "42",
+   "40"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 41."
+ },
+ {
+  "id": "mb-y2-015",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 13 + 18?",
+  "answer": "31",
+  "explanation": "The answer is 31."
+ },
+ {
+  "id": "mb-y2-016",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 50 − 17?",
+  "options": [
+   "35",
+   "32",
+   "34",
+   "33"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 33."
+ },
+ {
+  "id": "mb-y2-017",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 53 − 12?",
+  "answer": "41",
+  "explanation": "The answer is 41."
+ },
+ {
+  "id": "mb-y2-018",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 33 + 26?",
+  "options": [
+   "61",
+   "58",
+   "60",
+   "59"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 59."
+ },
+ {
+  "id": "mb-y2-019",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 49 − 5?",
+  "answer": "44",
+  "explanation": "The answer is 44."
+ },
+ {
+  "id": "mb-y2-020",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 54 − 19?",
+  "options": [
+   "34",
+   "35",
+   "37",
+   "36"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 35."
+ },
+ {
+  "id": "mb-y2-021",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 23 + 18?",
+  "answer": "41",
+  "explanation": "The answer is 41."
+ },
+ {
+  "id": "mb-y2-022",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 37 − 13?",
+  "options": [
+   "26",
+   "24",
+   "25",
+   "23"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 24."
+ },
+ {
+  "id": "mb-y2-023",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 56 − 1?",
+  "answer": "55",
+  "explanation": "The answer is 55."
+ },
+ {
+  "id": "mb-y2-024",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 21 + 12?",
+  "options": [
+   "33",
+   "34",
+   "35",
+   "32"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 33."
+ },
+ {
+  "id": "mb-y2-025",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 33 − 8?",
+  "answer": "25",
+  "explanation": "The answer is 25."
+ },
+ {
+  "id": "mb-y2-026",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 35 − 15?",
+  "options": [
+   "19",
+   "20",
+   "22",
+   "21"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 20."
+ },
+ {
+  "id": "mb-y2-027",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 11 + 18?",
+  "answer": "29",
+  "explanation": "The answer is 29."
+ },
+ {
+  "id": "mb-y2-028",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 54 − 5?",
+  "options": [
+   "51",
+   "50",
+   "48",
+   "49"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 49."
+ },
+ {
+  "id": "mb-y2-029",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 37 − 4?",
+  "answer": "33",
+  "explanation": "The answer is 33."
+ },
+ {
+  "id": "mb-y2-030",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 14 + 5?",
+  "options": [
+   "21",
+   "18",
+   "20",
+   "19"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 19."
+ },
+ {
+  "id": "mb-y2-031",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 30 − 3?",
+  "answer": "27",
+  "explanation": "The answer is 27."
+ },
+ {
+  "id": "mb-y2-032",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 31 − 11?",
+  "options": [
+   "20",
+   "21",
+   "19",
+   "22"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 20."
+ },
+ {
+  "id": "mb-y2-033",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 11 + 30?",
+  "answer": "41",
+  "explanation": "The answer is 41."
+ },
+ {
+  "id": "mb-y2-034",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 58 − 6?",
+  "options": [
+   "54",
+   "51",
+   "53",
+   "52"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 52."
+ },
+ {
+  "id": "mb-y2-035",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 28 − 9?",
+  "answer": "19",
+  "explanation": "The answer is 19."
+ },
+ {
+  "id": "mb-y2-036",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 12 + 23?",
+  "options": [
+   "34",
+   "37",
+   "36",
+   "35"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 35."
+ },
+ {
+  "id": "mb-y2-037",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 56 − 13?",
+  "answer": "43",
+  "explanation": "The answer is 43."
+ },
+ {
+  "id": "mb-y2-038",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 51 − 16?",
+  "options": [
+   "36",
+   "37",
+   "35",
+   "34"
+  ],
+  "answer": 2,
+  "explanation": "The answer is 35."
+ },
+ {
+  "id": "mb-y2-039",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "math-puzzle",
+  "prompt": "What is 26 + 28?",
+  "answer": "54",
+  "explanation": "The answer is 54."
+ },
+ {
+  "id": "mb-y2-040",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 1,
+  "year": 2,
+  "difficulty": 1,
+  "objectiveIds": [
+   "MA-N-Y2-01"
+  ],
+  "xp": 10,
+  "coins": 3,
+  "type": "multiple-choice",
+  "prompt": "What is 49 − 17?",
+  "options": [
+   "33",
+   "32",
+   "34",
+   "31"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 32."
+ },
+ {
+  "id": "mb-y3-001",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 12 × 2?",
+  "answer": "24",
+  "explanation": "The answer is 24."
+ },
+ {
+  "id": "mb-y3-002",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 11 × 2?",
+  "options": [
+   "24",
+   "21",
+   "23",
+   "22"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 22."
+ },
+ {
+  "id": "mb-y3-003",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 10 × 5?",
+  "answer": "50",
+  "explanation": "The answer is 50."
+ },
+ {
+  "id": "mb-y3-004",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 5 × 2?",
+  "options": [
+   "10",
+   "11",
+   "9",
+   "12"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 10."
+ },
+ {
+  "id": "mb-y3-005",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 11 × 2?",
+  "answer": "22",
+  "explanation": "The answer is 22."
+ },
+ {
+  "id": "mb-y3-006",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 5 × 5?",
+  "options": [
+   "26",
+   "27",
+   "24",
+   "25"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 25."
+ },
+ {
+  "id": "mb-y3-007",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 4 × 2?",
+  "answer": "8",
+  "explanation": "The answer is 8."
+ },
+ {
+  "id": "mb-y3-008",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 2 × 10?",
+  "options": [
+   "20",
+   "22",
+   "21",
+   "19"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 20."
+ },
+ {
+  "id": "mb-y3-009",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 5 × 10?",
+  "answer": "50",
+  "explanation": "The answer is 50."
+ },
+ {
+  "id": "mb-y3-010",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 4 × 10?",
+  "options": [
+   "39",
+   "40",
+   "42",
+   "41"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 40."
+ },
+ {
+  "id": "mb-y3-011",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 6 × 10?",
+  "answer": "60",
+  "explanation": "The answer is 60."
+ },
+ {
+  "id": "mb-y3-012",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 2 × 10?",
+  "options": [
+   "22",
+   "19",
+   "21",
+   "20"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 20."
+ },
+ {
+  "id": "mb-y3-013",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 5 × 2?",
+  "answer": "10",
+  "explanation": "The answer is 10."
+ },
+ {
+  "id": "mb-y3-014",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 9 × 2?",
+  "options": [
+   "19",
+   "20",
+   "17",
+   "18"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 18."
+ },
+ {
+  "id": "mb-y3-015",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 2 × 5?",
+  "answer": "10",
+  "explanation": "The answer is 10."
+ },
+ {
+  "id": "mb-y3-016",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 4 × 10?",
+  "options": [
+   "42",
+   "39",
+   "41",
+   "40"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 40."
+ },
+ {
+  "id": "mb-y3-017",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 11 × 10?",
+  "answer": "110",
+  "explanation": "The answer is 110."
+ },
+ {
+  "id": "mb-y3-018",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 8 × 5?",
+  "options": [
+   "42",
+   "39",
+   "41",
+   "40"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 40."
+ },
+ {
+  "id": "mb-y3-019",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 5 × 5?",
+  "answer": "25",
+  "explanation": "The answer is 25."
+ },
+ {
+  "id": "mb-y3-020",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 11 × 10?",
+  "options": [
+   "109",
+   "111",
+   "112",
+   "110"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 110."
+ },
+ {
+  "id": "mb-y3-021",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 5 × 10?",
+  "answer": "50",
+  "explanation": "The answer is 50."
+ },
+ {
+  "id": "mb-y3-022",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 5 × 5?",
+  "options": [
+   "27",
+   "25",
+   "26",
+   "24"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 25."
+ },
+ {
+  "id": "mb-y3-023",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 10 × 2?",
+  "answer": "20",
+  "explanation": "The answer is 20."
+ },
+ {
+  "id": "mb-y3-024",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 8 × 10?",
+  "options": [
+   "79",
+   "82",
+   "80",
+   "81"
+  ],
+  "answer": 2,
+  "explanation": "The answer is 80."
+ },
+ {
+  "id": "mb-y3-025",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 2 × 2?",
+  "answer": "4",
+  "explanation": "The answer is 4."
+ },
+ {
+  "id": "mb-y3-026",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 7 × 10?",
+  "options": [
+   "72",
+   "71",
+   "70",
+   "69"
+  ],
+  "answer": 2,
+  "explanation": "The answer is 70."
+ },
+ {
+  "id": "mb-y3-027",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 6 × 5?",
+  "answer": "30",
+  "explanation": "The answer is 30."
+ },
+ {
+  "id": "mb-y3-028",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 3 × 10?",
+  "options": [
+   "29",
+   "30",
+   "31",
+   "32"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 30."
+ },
+ {
+  "id": "mb-y3-029",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 8 × 10?",
+  "answer": "80",
+  "explanation": "The answer is 80."
+ },
+ {
+  "id": "mb-y3-030",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 3 × 5?",
+  "options": [
+   "16",
+   "14",
+   "15",
+   "17"
+  ],
+  "answer": 2,
+  "explanation": "The answer is 15."
+ },
+ {
+  "id": "mb-y3-031",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 12 × 5?",
+  "answer": "60",
+  "explanation": "The answer is 60."
+ },
+ {
+  "id": "mb-y3-032",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 5 × 10?",
+  "options": [
+   "52",
+   "51",
+   "49",
+   "50"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 50."
+ },
+ {
+  "id": "mb-y3-033",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 10 × 2?",
+  "answer": "20",
+  "explanation": "The answer is 20."
+ },
+ {
+  "id": "mb-y3-034",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 2 × 10?",
+  "options": [
+   "22",
+   "19",
+   "21",
+   "20"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 20."
+ },
+ {
+  "id": "mb-y3-035",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 8 × 10?",
+  "answer": "80",
+  "explanation": "The answer is 80."
+ },
+ {
+  "id": "mb-y3-036",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 5 × 10?",
+  "options": [
+   "52",
+   "49",
+   "51",
+   "50"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 50."
+ },
+ {
+  "id": "mb-y3-037",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 5 × 2?",
+  "answer": "10",
+  "explanation": "The answer is 10."
+ },
+ {
+  "id": "mb-y3-038",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 10 × 5?",
+  "options": [
+   "51",
+   "52",
+   "50",
+   "49"
+  ],
+  "answer": 2,
+  "explanation": "The answer is 50."
+ },
+ {
+  "id": "mb-y3-039",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 5 × 2?",
+  "answer": "10",
+  "explanation": "The answer is 10."
+ },
+ {
+  "id": "mb-y3-040",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "5-7",
+  "level": 2,
+  "year": 3,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y3-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 8 × 5?",
+  "options": [
+   "40",
+   "41",
+   "39",
+   "42"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 40."
+ },
+ {
+  "id": "mb-y4-001",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 21 ÷ 3?",
+  "answer": "7",
+  "explanation": "The answer is 7."
+ },
+ {
+  "id": "mb-y4-002",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 7 × 6?",
+  "options": [
+   "42",
+   "43",
+   "41",
+   "44"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 42."
+ },
+ {
+  "id": "mb-y4-003",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 42 ÷ 7?",
+  "answer": "6",
+  "explanation": "The answer is 6."
+ },
+ {
+  "id": "mb-y4-004",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 7 × 5?",
+  "options": [
+   "37",
+   "34",
+   "36",
+   "35"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 35."
+ },
+ {
+  "id": "mb-y4-005",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 16 ÷ 4?",
+  "answer": "4",
+  "explanation": "The answer is 4."
+ },
+ {
+  "id": "mb-y4-006",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 7 × 6?",
+  "options": [
+   "44",
+   "41",
+   "43",
+   "42"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 42."
+ },
+ {
+  "id": "mb-y4-007",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 32 ÷ 8?",
+  "answer": "4",
+  "explanation": "The answer is 4."
+ },
+ {
+  "id": "mb-y4-008",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 3 × 6?",
+  "options": [
+   "20",
+   "17",
+   "19",
+   "18"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 18."
+ },
+ {
+  "id": "mb-y4-009",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 35 ÷ 5?",
+  "answer": "7",
+  "explanation": "The answer is 7."
+ },
+ {
+  "id": "mb-y4-010",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 8 × 3?",
+  "options": [
+   "24",
+   "26",
+   "25",
+   "23"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 24."
+ },
+ {
+  "id": "mb-y4-011",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 6 ÷ 2?",
+  "answer": "3",
+  "explanation": "The answer is 3."
+ },
+ {
+  "id": "mb-y4-012",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 7 × 4?",
+  "options": [
+   "28",
+   "29",
+   "30",
+   "27"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 28."
+ },
+ {
+  "id": "mb-y4-013",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 40 ÷ 8?",
+  "answer": "5",
+  "explanation": "The answer is 5."
+ },
+ {
+  "id": "mb-y4-014",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 4 × 7?",
+  "options": [
+   "30",
+   "29",
+   "28",
+   "27"
+  ],
+  "answer": 2,
+  "explanation": "The answer is 28."
+ },
+ {
+  "id": "mb-y4-015",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 72 ÷ 9?",
+  "answer": "8",
+  "explanation": "The answer is 8."
+ },
+ {
+  "id": "mb-y4-016",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 4 × 5?",
+  "options": [
+   "19",
+   "22",
+   "20",
+   "21"
+  ],
+  "answer": 2,
+  "explanation": "The answer is 20."
+ },
+ {
+  "id": "mb-y4-017",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 32 ÷ 8?",
+  "answer": "4",
+  "explanation": "The answer is 4."
+ },
+ {
+  "id": "mb-y4-018",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 6 × 6?",
+  "options": [
+   "38",
+   "35",
+   "37",
+   "36"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 36."
+ },
+ {
+  "id": "mb-y4-019",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 10 ÷ 5?",
+  "answer": "2",
+  "explanation": "The answer is 2."
+ },
+ {
+  "id": "mb-y4-020",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 5 × 3?",
+  "options": [
+   "17",
+   "16",
+   "15",
+   "14"
+  ],
+  "answer": 2,
+  "explanation": "The answer is 15."
+ },
+ {
+  "id": "mb-y4-021",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 10 ÷ 5?",
+  "answer": "2",
+  "explanation": "The answer is 2."
+ },
+ {
+  "id": "mb-y4-022",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 3 × 8?",
+  "options": [
+   "26",
+   "23",
+   "25",
+   "24"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 24."
+ },
+ {
+  "id": "mb-y4-023",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 12 ÷ 3?",
+  "answer": "4",
+  "explanation": "The answer is 4."
+ },
+ {
+  "id": "mb-y4-024",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 6 × 3?",
+  "options": [
+   "20",
+   "17",
+   "19",
+   "18"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 18."
+ },
+ {
+  "id": "mb-y4-025",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 15 ÷ 3?",
+  "answer": "5",
+  "explanation": "The answer is 5."
+ },
+ {
+  "id": "mb-y4-026",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 3 × 6?",
+  "options": [
+   "17",
+   "20",
+   "19",
+   "18"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 18."
+ },
+ {
+  "id": "mb-y4-027",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 32 ÷ 4?",
+  "answer": "8",
+  "explanation": "The answer is 8."
+ },
+ {
+  "id": "mb-y4-028",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 3 × 3?",
+  "options": [
+   "11",
+   "9",
+   "10",
+   "8"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 9."
+ },
+ {
+  "id": "mb-y4-029",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 27 ÷ 3?",
+  "answer": "9",
+  "explanation": "The answer is 9."
+ },
+ {
+  "id": "mb-y4-030",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 9 × 4?",
+  "options": [
+   "36",
+   "38",
+   "37",
+   "35"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 36."
+ },
+ {
+  "id": "mb-y4-031",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 12 ÷ 6?",
+  "answer": "2",
+  "explanation": "The answer is 2."
+ },
+ {
+  "id": "mb-y4-032",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 5 × 8?",
+  "options": [
+   "42",
+   "41",
+   "40",
+   "39"
+  ],
+  "answer": 2,
+  "explanation": "The answer is 40."
+ },
+ {
+  "id": "mb-y4-033",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 63 ÷ 9?",
+  "answer": "7",
+  "explanation": "The answer is 7."
+ },
+ {
+  "id": "mb-y4-034",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 3 × 6?",
+  "options": [
+   "18",
+   "19",
+   "17",
+   "20"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 18."
+ },
+ {
+  "id": "mb-y4-035",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 42 ÷ 6?",
+  "answer": "7",
+  "explanation": "The answer is 7."
+ },
+ {
+  "id": "mb-y4-036",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 4 × 9?",
+  "options": [
+   "35",
+   "38",
+   "37",
+   "36"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 36."
+ },
+ {
+  "id": "mb-y4-037",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 15 ÷ 5?",
+  "answer": "3",
+  "explanation": "The answer is 3."
+ },
+ {
+  "id": "mb-y4-038",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 2 × 6?",
+  "options": [
+   "14",
+   "13",
+   "11",
+   "12"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 12."
+ },
+ {
+  "id": "mb-y4-039",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "math-puzzle",
+  "prompt": "What is 18 ÷ 6?",
+  "answer": "3",
+  "explanation": "The answer is 3."
+ },
+ {
+  "id": "mb-y4-040",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 2,
+  "year": 4,
+  "difficulty": 2,
+  "objectiveIds": [
+   "MA-N-Y4-01"
+  ],
+  "xp": 12,
+  "coins": 4,
+  "type": "multiple-choice",
+  "prompt": "What is 5 × 4?",
+  "options": [
+   "19",
+   "21",
+   "22",
+   "20"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 20."
+ },
+ {
+  "id": "mb-y5-001",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 22 × 4?",
+  "answer": "88",
+  "explanation": "The answer is 88."
+ },
+ {
+  "id": "mb-y5-002",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 1/2 of 16?",
+  "options": [
+   "8",
+   "10",
+   "9",
+   "7"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 8."
+ },
+ {
+  "id": "mb-y5-003",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 23 × 3?",
+  "answer": "69",
+  "explanation": "The answer is 69."
+ },
+ {
+  "id": "mb-y5-004",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 1/5 of 45?",
+  "options": [
+   "9",
+   "10",
+   "11",
+   "8"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 9."
+ },
+ {
+  "id": "mb-y5-005",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 20 × 9?",
+  "answer": "180",
+  "explanation": "The answer is 180."
+ },
+ {
+  "id": "mb-y5-006",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 1/10 of 80?",
+  "options": [
+   "10",
+   "7",
+   "9",
+   "8"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 8."
+ },
+ {
+  "id": "mb-y5-007",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 21 × 7?",
+  "answer": "147",
+  "explanation": "The answer is 147."
+ },
+ {
+  "id": "mb-y5-008",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 1/10 of 40?",
+  "options": [
+   "3",
+   "6",
+   "5",
+   "4"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 4."
+ },
+ {
+  "id": "mb-y5-009",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 22 × 2?",
+  "answer": "44",
+  "explanation": "The answer is 44."
+ },
+ {
+  "id": "mb-y5-010",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 1/5 of 20?",
+  "options": [
+   "3",
+   "6",
+   "5",
+   "4"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 4."
+ },
+ {
+  "id": "mb-y5-011",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 15 × 3?",
+  "answer": "45",
+  "explanation": "The answer is 45."
+ },
+ {
+  "id": "mb-y5-012",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 1/2 of 8?",
+  "options": [
+   "3",
+   "5",
+   "6",
+   "4"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 4."
+ },
+ {
+  "id": "mb-y5-013",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 18 × 9?",
+  "answer": "162",
+  "explanation": "The answer is 162."
+ },
+ {
+  "id": "mb-y5-014",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 1/2 of 8?",
+  "options": [
+   "5",
+   "4",
+   "6",
+   "3"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 4."
+ },
+ {
+  "id": "mb-y5-015",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 17 × 2?",
+  "answer": "34",
+  "explanation": "The answer is 34."
+ },
+ {
+  "id": "mb-y5-016",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 1/10 of 20?",
+  "options": [
+   "0",
+   "2",
+   "3",
+   "1"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 2."
+ },
+ {
+  "id": "mb-y5-017",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 22 × 6?",
+  "answer": "132",
+  "explanation": "The answer is 132."
+ },
+ {
+  "id": "mb-y5-018",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 1/4 of 16?",
+  "options": [
+   "4",
+   "3",
+   "5",
+   "6"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 4."
+ },
+ {
+  "id": "mb-y5-019",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 15 × 8?",
+  "answer": "120",
+  "explanation": "The answer is 120."
+ },
+ {
+  "id": "mb-y5-020",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 1/5 of 25?",
+  "options": [
+   "4",
+   "7",
+   "6",
+   "5"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 5."
+ },
+ {
+  "id": "mb-y5-021",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 21 × 2?",
+  "answer": "42",
+  "explanation": "The answer is 42."
+ },
+ {
+  "id": "mb-y5-022",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 1/4 of 28?",
+  "options": [
+   "9",
+   "6",
+   "8",
+   "7"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 7."
+ },
+ {
+  "id": "mb-y5-023",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 15 × 8?",
+  "answer": "120",
+  "explanation": "The answer is 120."
+ },
+ {
+  "id": "mb-y5-024",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 1/10 of 50?",
+  "options": [
+   "5",
+   "6",
+   "4",
+   "7"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 5."
+ },
+ {
+  "id": "mb-y5-025",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 11 × 8?",
+  "answer": "88",
+  "explanation": "The answer is 88."
+ },
+ {
+  "id": "mb-y5-026",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 1/4 of 32?",
+  "options": [
+   "10",
+   "9",
+   "8",
+   "7"
+  ],
+  "answer": 2,
+  "explanation": "The answer is 8."
+ },
+ {
+  "id": "mb-y5-027",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 22 × 9?",
+  "answer": "198",
+  "explanation": "The answer is 198."
+ },
+ {
+  "id": "mb-y5-028",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 1/10 of 40?",
+  "options": [
+   "4",
+   "5",
+   "3",
+   "6"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 4."
+ },
+ {
+  "id": "mb-y5-029",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 24 × 4?",
+  "answer": "96",
+  "explanation": "The answer is 96."
+ },
+ {
+  "id": "mb-y5-030",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 1/10 of 90?",
+  "options": [
+   "8",
+   "10",
+   "9",
+   "11"
+  ],
+  "answer": 2,
+  "explanation": "The answer is 9."
+ },
+ {
+  "id": "mb-y5-031",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 16 × 5?",
+  "answer": "80",
+  "explanation": "The answer is 80."
+ },
+ {
+  "id": "mb-y5-032",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 1/10 of 50?",
+  "options": [
+   "7",
+   "5",
+   "6",
+   "4"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 5."
+ },
+ {
+  "id": "mb-y5-033",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 16 × 9?",
+  "answer": "144",
+  "explanation": "The answer is 144."
+ },
+ {
+  "id": "mb-y5-034",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 1/2 of 16?",
+  "options": [
+   "7",
+   "10",
+   "9",
+   "8"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 8."
+ },
+ {
+  "id": "mb-y5-035",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 24 × 6?",
+  "answer": "144",
+  "explanation": "The answer is 144."
+ },
+ {
+  "id": "mb-y5-036",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 1/10 of 70?",
+  "options": [
+   "7",
+   "9",
+   "8",
+   "6"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 7."
+ },
+ {
+  "id": "mb-y5-037",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 16 × 7?",
+  "answer": "112",
+  "explanation": "The answer is 112."
+ },
+ {
+  "id": "mb-y5-038",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 1/10 of 90?",
+  "options": [
+   "9",
+   "11",
+   "10",
+   "8"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 9."
+ },
+ {
+  "id": "mb-y5-039",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 23 × 5?",
+  "answer": "115",
+  "explanation": "The answer is 115."
+ },
+ {
+  "id": "mb-y5-040",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 5,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y5-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 1/2 of 18?",
+  "options": [
+   "11",
+   "8",
+   "10",
+   "9"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 9."
+ },
+ {
+  "id": "mb-y6-001",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 6 × 7 + 15?",
+  "answer": "57",
+  "explanation": "The answer is 57."
+ },
+ {
+  "id": "mb-y6-002",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 25% of 80?",
+  "options": [
+   "20",
+   "21",
+   "22",
+   "19"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 20."
+ },
+ {
+  "id": "mb-y6-003",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 8 × 7 + 18?",
+  "answer": "74",
+  "explanation": "The answer is 74."
+ },
+ {
+  "id": "mb-y6-004",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 10% of 60?",
+  "options": [
+   "6",
+   "7",
+   "8",
+   "5"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 6."
+ },
+ {
+  "id": "mb-y6-005",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 7 × 8 + 3?",
+  "answer": "59",
+  "explanation": "The answer is 59."
+ },
+ {
+  "id": "mb-y6-006",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 10% of 20?",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "0"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 2."
+ },
+ {
+  "id": "mb-y6-007",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 5 × 3 + 1?",
+  "answer": "16",
+  "explanation": "The answer is 16."
+ },
+ {
+  "id": "mb-y6-008",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 10% of 100?",
+  "options": [
+   "12",
+   "9",
+   "11",
+   "10"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 10."
+ },
+ {
+  "id": "mb-y6-009",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 7 × 5 + 5?",
+  "answer": "40",
+  "explanation": "The answer is 40."
+ },
+ {
+  "id": "mb-y6-010",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 10% of 100?",
+  "options": [
+   "9",
+   "11",
+   "10",
+   "12"
+  ],
+  "answer": 2,
+  "explanation": "The answer is 10."
+ },
+ {
+  "id": "mb-y6-011",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 8 × 5 + 7?",
+  "answer": "47",
+  "explanation": "The answer is 47."
+ },
+ {
+  "id": "mb-y6-012",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 10% of 20?",
+  "options": [
+   "1",
+   "3",
+   "0",
+   "2"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 2."
+ },
+ {
+  "id": "mb-y6-013",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 4 × 7 + 12?",
+  "answer": "40",
+  "explanation": "The answer is 40."
+ },
+ {
+  "id": "mb-y6-014",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 50% of 20?",
+  "options": [
+   "10",
+   "11",
+   "9",
+   "12"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 10."
+ },
+ {
+  "id": "mb-y6-015",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 4 × 4 + 4?",
+  "answer": "20",
+  "explanation": "The answer is 20."
+ },
+ {
+  "id": "mb-y6-016",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 10% of 200?",
+  "options": [
+   "20",
+   "21",
+   "22",
+   "19"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 20."
+ },
+ {
+  "id": "mb-y6-017",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 4 × 4 + 2?",
+  "answer": "18",
+  "explanation": "The answer is 18."
+ },
+ {
+  "id": "mb-y6-018",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 50% of 40?",
+  "options": [
+   "22",
+   "20",
+   "21",
+   "19"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 20."
+ },
+ {
+  "id": "mb-y6-019",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 6 × 3 + 7?",
+  "answer": "25",
+  "explanation": "The answer is 25."
+ },
+ {
+  "id": "mb-y6-020",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 50% of 80?",
+  "options": [
+   "40",
+   "41",
+   "42",
+   "39"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 40."
+ },
+ {
+  "id": "mb-y6-021",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 5 × 5 + 16?",
+  "answer": "41",
+  "explanation": "The answer is 41."
+ },
+ {
+  "id": "mb-y6-022",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 25% of 200?",
+  "options": [
+   "50",
+   "51",
+   "49",
+   "52"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 50."
+ },
+ {
+  "id": "mb-y6-023",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 8 × 2 + 12?",
+  "answer": "28",
+  "explanation": "The answer is 28."
+ },
+ {
+  "id": "mb-y6-024",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 10% of 100?",
+  "options": [
+   "10",
+   "11",
+   "9",
+   "12"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 10."
+ },
+ {
+  "id": "mb-y6-025",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 3 × 7 + 1?",
+  "answer": "22",
+  "explanation": "The answer is 22."
+ },
+ {
+  "id": "mb-y6-026",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 10% of 20?",
+  "options": [
+   "3",
+   "2",
+   "0",
+   "1"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 2."
+ },
+ {
+  "id": "mb-y6-027",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 8 × 3 + 9?",
+  "answer": "33",
+  "explanation": "The answer is 33."
+ },
+ {
+  "id": "mb-y6-028",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 50% of 20?",
+  "options": [
+   "12",
+   "10",
+   "9",
+   "11"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 10."
+ },
+ {
+  "id": "mb-y6-029",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 3 × 7 + 13?",
+  "answer": "34",
+  "explanation": "The answer is 34."
+ },
+ {
+  "id": "mb-y6-030",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 50% of 100?",
+  "options": [
+   "52",
+   "51",
+   "49",
+   "50"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 50."
+ },
+ {
+  "id": "mb-y6-031",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 4 × 2 + 20?",
+  "answer": "28",
+  "explanation": "The answer is 28."
+ },
+ {
+  "id": "mb-y6-032",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 50% of 200?",
+  "options": [
+   "102",
+   "99",
+   "101",
+   "100"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 100."
+ },
+ {
+  "id": "mb-y6-033",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 5 × 8 + 15?",
+  "answer": "55",
+  "explanation": "The answer is 55."
+ },
+ {
+  "id": "mb-y6-034",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 50% of 20?",
+  "options": [
+   "12",
+   "10",
+   "9",
+   "11"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 10."
+ },
+ {
+  "id": "mb-y6-035",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 3 × 2 + 20?",
+  "answer": "26",
+  "explanation": "The answer is 26."
+ },
+ {
+  "id": "mb-y6-036",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 25% of 40?",
+  "options": [
+   "10",
+   "11",
+   "9",
+   "12"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 10."
+ },
+ {
+  "id": "mb-y6-037",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 5 × 8 + 4?",
+  "answer": "44",
+  "explanation": "The answer is 44."
+ },
+ {
+  "id": "mb-y6-038",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 50% of 100?",
+  "options": [
+   "51",
+   "49",
+   "52",
+   "50"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 50."
+ },
+ {
+  "id": "mb-y6-039",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "math-puzzle",
+  "prompt": "What is 4 × 2 + 13?",
+  "answer": "21",
+  "explanation": "The answer is 21."
+ },
+ {
+  "id": "mb-y6-040",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "8-10",
+  "level": 3,
+  "year": 6,
+  "difficulty": 3,
+  "objectiveIds": [
+   "MA-N-Y6-01"
+  ],
+  "xp": 14,
+  "coins": 5,
+  "type": "multiple-choice",
+  "prompt": "What is 10% of 20?",
+  "options": [
+   "1",
+   "3",
+   "0",
+   "2"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 2."
+ },
+ {
+  "id": "mb-y7-001",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "Using order of operations, what is 3 + 3 × 2?",
+  "answer": "9",
+  "explanation": "The answer is 9."
+ },
+ {
+  "id": "mb-y7-002",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "What is -9 + 10?",
+  "options": [
+   "2",
+   "1",
+   "3",
+   "0"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 1."
+ },
+ {
+  "id": "mb-y7-003",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "Using order of operations, what is 6 + 8 × 6?",
+  "answer": "54",
+  "explanation": "The answer is 54."
+ },
+ {
+  "id": "mb-y7-004",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "What is -5 + 10?",
+  "options": [
+   "5",
+   "6",
+   "4",
+   "7"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 5."
+ },
+ {
+  "id": "mb-y7-005",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "Using order of operations, what is 3 + 3 × 6?",
+  "answer": "21",
+  "explanation": "The answer is 21."
+ },
+ {
+  "id": "mb-y7-006",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "What is -4 + 4?",
+  "options": [
+   "0",
+   "1",
+   "2",
+   "10"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 0."
+ },
+ {
+  "id": "mb-y7-007",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "Using order of operations, what is 8 + 8 × 4?",
+  "answer": "40",
+  "explanation": "The answer is 40."
+ },
+ {
+  "id": "mb-y7-008",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "What is -1 + 6?",
+  "options": [
+   "7",
+   "6",
+   "5",
+   "4"
+  ],
+  "answer": 2,
+  "explanation": "The answer is 5."
+ },
+ {
+  "id": "mb-y7-009",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "Using order of operations, what is 8 + 3 × 4?",
+  "answer": "20",
+  "explanation": "The answer is 20."
+ },
+ {
+  "id": "mb-y7-010",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "What is -9 + 7?",
+  "options": [
+   "-2",
+   "0",
+   "8",
+   "1"
+  ],
+  "answer": 0,
+  "explanation": "The answer is -2."
+ },
+ {
+  "id": "mb-y7-011",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "Using order of operations, what is 6 + 3 × 5?",
+  "answer": "21",
+  "explanation": "The answer is 21."
+ },
+ {
+  "id": "mb-y7-012",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "What is -4 + 7?",
+  "options": [
+   "5",
+   "2",
+   "4",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 3."
+ },
+ {
+  "id": "mb-y7-013",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "Using order of operations, what is 7 + 3 × 2?",
+  "answer": "13",
+  "explanation": "The answer is 13."
+ },
+ {
+  "id": "mb-y7-014",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "What is -8 + 2?",
+  "options": [
+   "4",
+   "-6",
+   "0",
+   "1"
+  ],
+  "answer": 1,
+  "explanation": "The answer is -6."
+ },
+ {
+  "id": "mb-y7-015",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "Using order of operations, what is 3 + 7 × 7?",
+  "answer": "52",
+  "explanation": "The answer is 52."
+ },
+ {
+  "id": "mb-y7-016",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "What is -5 + 12?",
+  "options": [
+   "8",
+   "7",
+   "9",
+   "6"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 7."
+ },
+ {
+  "id": "mb-y7-017",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "Using order of operations, what is 4 + 9 × 7?",
+  "answer": "67",
+  "explanation": "The answer is 67."
+ },
+ {
+  "id": "mb-y7-018",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "What is -2 + 4?",
+  "options": [
+   "1",
+   "3",
+   "0",
+   "2"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 2."
+ },
+ {
+  "id": "mb-y7-019",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "Using order of operations, what is 4 + 8 × 9?",
+  "answer": "76",
+  "explanation": "The answer is 76."
+ },
+ {
+  "id": "mb-y7-020",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "What is -5 + 11?",
+  "options": [
+   "8",
+   "6",
+   "7",
+   "5"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 6."
+ },
+ {
+  "id": "mb-y7-021",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "Using order of operations, what is 3 + 9 × 2?",
+  "answer": "21",
+  "explanation": "The answer is 21."
+ },
+ {
+  "id": "mb-y7-022",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "What is -6 + 5?",
+  "options": [
+   "1",
+   "-1",
+   "9",
+   "0"
+  ],
+  "answer": 1,
+  "explanation": "The answer is -1."
+ },
+ {
+  "id": "mb-y7-023",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "Using order of operations, what is 7 + 7 × 6?",
+  "answer": "49",
+  "explanation": "The answer is 49."
+ },
+ {
+  "id": "mb-y7-024",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "What is -7 + 8?",
+  "options": [
+   "1",
+   "3",
+   "2",
+   "0"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 1."
+ },
+ {
+  "id": "mb-y7-025",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "Using order of operations, what is 5 + 6 × 7?",
+  "answer": "47",
+  "explanation": "The answer is 47."
+ },
+ {
+  "id": "mb-y7-026",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "What is -2 + 11?",
+  "options": [
+   "10",
+   "11",
+   "9",
+   "8"
+  ],
+  "answer": 2,
+  "explanation": "The answer is 9."
+ },
+ {
+  "id": "mb-y7-027",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "Using order of operations, what is 5 + 8 × 5?",
+  "answer": "45",
+  "explanation": "The answer is 45."
+ },
+ {
+  "id": "mb-y7-028",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "What is -8 + 9?",
+  "options": [
+   "1",
+   "2",
+   "0",
+   "3"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 1."
+ },
+ {
+  "id": "mb-y7-029",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "Using order of operations, what is 3 + 3 × 7?",
+  "answer": "24",
+  "explanation": "The answer is 24."
+ },
+ {
+  "id": "mb-y7-030",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "What is -3 + 3?",
+  "options": [
+   "0",
+   "1",
+   "2",
+   "10"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 0."
+ },
+ {
+  "id": "mb-y7-031",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "Using order of operations, what is 6 + 7 × 7?",
+  "answer": "55",
+  "explanation": "The answer is 55."
+ },
+ {
+  "id": "mb-y7-032",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "What is -3 + 5?",
+  "options": [
+   "2",
+   "3",
+   "0",
+   "1"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 2."
+ },
+ {
+  "id": "mb-y7-033",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "Using order of operations, what is 5 + 2 × 9?",
+  "answer": "23",
+  "explanation": "The answer is 23."
+ },
+ {
+  "id": "mb-y7-034",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "What is -8 + 2?",
+  "options": [
+   "1",
+   "0",
+   "4",
+   "-6"
+  ],
+  "answer": 3,
+  "explanation": "The answer is -6."
+ },
+ {
+  "id": "mb-y7-035",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "Using order of operations, what is 8 + 7 × 3?",
+  "answer": "29",
+  "explanation": "The answer is 29."
+ },
+ {
+  "id": "mb-y7-036",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "What is -9 + 7?",
+  "options": [
+   "8",
+   "0",
+   "-2",
+   "1"
+  ],
+  "answer": 2,
+  "explanation": "The answer is -2."
+ },
+ {
+  "id": "mb-y7-037",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "Using order of operations, what is 3 + 9 × 4?",
+  "answer": "39",
+  "explanation": "The answer is 39."
+ },
+ {
+  "id": "mb-y7-038",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "What is -5 + 3?",
+  "options": [
+   "0",
+   "1",
+   "-2",
+   "8"
+  ],
+  "answer": 2,
+  "explanation": "The answer is -2."
+ },
+ {
+  "id": "mb-y7-039",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "Using order of operations, what is 5 + 6 × 8?",
+  "answer": "53",
+  "explanation": "The answer is 53."
+ },
+ {
+  "id": "mb-y7-040",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 7,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "What is -4 + 8?",
+  "options": [
+   "6",
+   "3",
+   "5",
+   "4"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 4."
+ },
+ {
+  "id": "mb-y8-001",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "What is 7² (7 squared)?",
+  "answer": "49",
+  "explanation": "The answer is 49."
+ },
+ {
+  "id": "mb-y8-002",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "Solve for x:  x + 7 = 16",
+  "options": [
+   "10",
+   "8",
+   "11",
+   "9"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 9."
+ },
+ {
+  "id": "mb-y8-003",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "What is 3² (3 squared)?",
+  "answer": "9",
+  "explanation": "The answer is 9."
+ },
+ {
+  "id": "mb-y8-004",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "Solve for x:  x + 3 = 9",
+  "options": [
+   "7",
+   "6",
+   "5",
+   "8"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 6."
+ },
+ {
+  "id": "mb-y8-005",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "What is 5² (5 squared)?",
+  "answer": "25",
+  "explanation": "The answer is 25."
+ },
+ {
+  "id": "mb-y8-006",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "Solve for x:  x + 2 = 14",
+  "options": [
+   "14",
+   "11",
+   "13",
+   "12"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 12."
+ },
+ {
+  "id": "mb-y8-007",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "What is 3² (3 squared)?",
+  "answer": "9",
+  "explanation": "The answer is 9."
+ },
+ {
+  "id": "mb-y8-008",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "Solve for x:  x + 8 = 10",
+  "options": [
+   "0",
+   "3",
+   "2",
+   "1"
+  ],
+  "answer": 2,
+  "explanation": "The answer is 2."
+ },
+ {
+  "id": "mb-y8-009",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "What is 3² (3 squared)?",
+  "answer": "9",
+  "explanation": "The answer is 9."
+ },
+ {
+  "id": "mb-y8-010",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "Solve for x:  x + 2 = 11",
+  "options": [
+   "11",
+   "10",
+   "8",
+   "9"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 9."
+ },
+ {
+  "id": "mb-y8-011",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "What is 2² (2 squared)?",
+  "answer": "4",
+  "explanation": "The answer is 4."
+ },
+ {
+  "id": "mb-y8-012",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "Solve for x:  x + 2 = 8",
+  "options": [
+   "8",
+   "6",
+   "7",
+   "5"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 6."
+ },
+ {
+  "id": "mb-y8-013",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "What is 7² (7 squared)?",
+  "answer": "49",
+  "explanation": "The answer is 49."
+ },
+ {
+  "id": "mb-y8-014",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "Solve for x:  x + 3 = 6",
+  "options": [
+   "4",
+   "2",
+   "5",
+   "3"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 3."
+ },
+ {
+  "id": "mb-y8-015",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "What is 3² (3 squared)?",
+  "answer": "9",
+  "explanation": "The answer is 9."
+ },
+ {
+  "id": "mb-y8-016",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "Solve for x:  x + 2 = 12",
+  "options": [
+   "12",
+   "10",
+   "11",
+   "9"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 10."
+ },
+ {
+  "id": "mb-y8-017",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "What is 5² (5 squared)?",
+  "answer": "25",
+  "explanation": "The answer is 25."
+ },
+ {
+  "id": "mb-y8-018",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "Solve for x:  x + 6 = 14",
+  "options": [
+   "7",
+   "9",
+   "8",
+   "10"
+  ],
+  "answer": 2,
+  "explanation": "The answer is 8."
+ },
+ {
+  "id": "mb-y8-019",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "What is 8² (8 squared)?",
+  "answer": "64",
+  "explanation": "The answer is 64."
+ },
+ {
+  "id": "mb-y8-020",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "Solve for x:  x + 5 = 13",
+  "options": [
+   "7",
+   "8",
+   "9",
+   "10"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 8."
+ },
+ {
+  "id": "mb-y8-021",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "What is 7² (7 squared)?",
+  "answer": "49",
+  "explanation": "The answer is 49."
+ },
+ {
+  "id": "mb-y8-022",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "Solve for x:  x + 1 = 7",
+  "options": [
+   "8",
+   "6",
+   "5",
+   "7"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 6."
+ },
+ {
+  "id": "mb-y8-023",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "What is 6² (6 squared)?",
+  "answer": "36",
+  "explanation": "The answer is 36."
+ },
+ {
+  "id": "mb-y8-024",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "Solve for x:  x + 3 = 9",
+  "options": [
+   "7",
+   "6",
+   "5",
+   "8"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 6."
+ },
+ {
+  "id": "mb-y8-025",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "What is 3² (3 squared)?",
+  "answer": "9",
+  "explanation": "The answer is 9."
+ },
+ {
+  "id": "mb-y8-026",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "Solve for x:  x + 1 = 13",
+  "options": [
+   "13",
+   "11",
+   "14",
+   "12"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 12."
+ },
+ {
+  "id": "mb-y8-027",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "What is 9² (9 squared)?",
+  "answer": "81",
+  "explanation": "The answer is 81."
+ },
+ {
+  "id": "mb-y8-028",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "Solve for x:  x + 8 = 19",
+  "options": [
+   "10",
+   "13",
+   "12",
+   "11"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 11."
+ },
+ {
+  "id": "mb-y8-029",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "What is 4² (4 squared)?",
+  "answer": "16",
+  "explanation": "The answer is 16."
+ },
+ {
+  "id": "mb-y8-030",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "Solve for x:  x + 8 = 16",
+  "options": [
+   "7",
+   "8",
+   "9",
+   "10"
+  ],
+  "answer": 1,
+  "explanation": "The answer is 8."
+ },
+ {
+  "id": "mb-y8-031",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "What is 9² (9 squared)?",
+  "answer": "81",
+  "explanation": "The answer is 81."
+ },
+ {
+  "id": "mb-y8-032",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "Solve for x:  x + 6 = 18",
+  "options": [
+   "12",
+   "14",
+   "13",
+   "11"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 12."
+ },
+ {
+  "id": "mb-y8-033",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "What is 5² (5 squared)?",
+  "answer": "25",
+  "explanation": "The answer is 25."
+ },
+ {
+  "id": "mb-y8-034",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "Solve for x:  x + 4 = 14",
+  "options": [
+   "9",
+   "12",
+   "11",
+   "10"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 10."
+ },
+ {
+  "id": "mb-y8-035",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "What is 5² (5 squared)?",
+  "answer": "25",
+  "explanation": "The answer is 25."
+ },
+ {
+  "id": "mb-y8-036",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "Solve for x:  x + 9 = 20",
+  "options": [
+   "11",
+   "10",
+   "13",
+   "12"
+  ],
+  "answer": 0,
+  "explanation": "The answer is 11."
+ },
+ {
+  "id": "mb-y8-037",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "What is 4² (4 squared)?",
+  "answer": "16",
+  "explanation": "The answer is 16."
+ },
+ {
+  "id": "mb-y8-038",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "Solve for x:  x + 2 = 4",
+  "options": [
+   "0",
+   "3",
+   "2",
+   "1"
+  ],
+  "answer": 2,
+  "explanation": "The answer is 2."
+ },
+ {
+  "id": "mb-y8-039",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "math-puzzle",
+  "prompt": "What is 6² (6 squared)?",
+  "answer": "36",
+  "explanation": "The answer is 36."
+ },
+ {
+  "id": "mb-y8-040",
+  "subject": "maths",
+  "strandId": "ma-number",
+  "ageBand": "11-14",
+  "level": 4,
+  "year": 8,
+  "difficulty": 4,
+  "objectiveIds": [],
+  "xp": 16,
+  "coins": 6,
+  "type": "multiple-choice",
+  "prompt": "Solve for x:  x + 3 = 5",
+  "options": [
+   "0",
+   "1",
+   "3",
+   "2"
+  ],
+  "answer": 3,
+  "explanation": "The answer is 2."
+ }
+]
